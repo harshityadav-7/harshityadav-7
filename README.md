@@ -1,6 +1,6 @@
 ## Hi there, I'm Harshit Yadav <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px"/>
 <h3>🚀 Java Full Stack Developer | Designing & Photography Enthusiast | CSE Undergrad  </h3>
-Crafting scalable apps, designing intuitive UIs, capturing moments, and building with code.  
+Crafting scalable apps, designing intuitive UIs, capturing moments, and building with code.  <br/>
 🐇 A rabbit in the race...
 
 ---
