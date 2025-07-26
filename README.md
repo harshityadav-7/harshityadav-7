@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Harshit Yadav!
+## Hi there, I'm Harshit Yadav <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px"/>
 🔭 I’m currently working on Java backend development and building full-stack projects to strengthen my problem-solving skills.  <br>👯 I’m looking to collaborate on beginner-friendly Java + MongoDB projects or open-source contributions.  <br>🤝 I’m looking for help with building scalable backend systems and understanding deployment workflows (CI/CD).  <br>🌱 I’m currently diving deeper into MongoDB, GitHub Labs, and advanced DSA (especially dynamic programming).  <br>💬 Ask me about Java, clean code practices, version control with Git, or how I approach consistent self-learning.  <br>⚡ Fun fact: I’m the rabbit in the race...😄<br>
 
 
@@ -20,5 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshityadav-7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
