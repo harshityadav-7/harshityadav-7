@@ -1,5 +1,18 @@
 ## Hi there, I'm Harshit Yadav <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30px"/>
-🔭 I’m currently working on Java backend development and building full-stack projects to strengthen my problem-solving skills.  <br>👯 I’m looking to collaborate on beginner-friendly Java + MongoDB projects or open-source contributions.  <br>🤝 I’m looking for help with building scalable backend systems and understanding deployment workflows (CI/CD).  <br>🌱 I’m currently diving deeper into MongoDB, GitHub Labs, and advanced DSA (especially dynamic programming).  <br>💬 Ask me about Java, clean code practices, version control with Git, or how I approach consistent self-learning.  <br>⚡ Fun fact: I’m the rabbit in the race...😄<br>
+<h3>🚀 Java Full Stack Developer | Designing & Photography Enthusiast | CSE Undergrad  </h3>
+Crafting scalable apps, designing intuitive UIs, capturing moments, and building with code.  
+🐇 A rabbit in the race...
+
+---
+
+- 🚀 Started with DSA — built strong logic solving 500+ problems  
+- 💻 Now working on Java Full Stack (Spring Boot + React)  
+- ☁️ Learning Cloud with Azure & AWS  
+- 🧠 Exploring AI with GPT, Gemini & prompt engineering  
+- 🛠️ Building smart, scalable real-world projects  
+- 📸 Passionate about photography & color grading 
+- 🎯 Mission: Turn ideas into impactful tech
+
 
 
 ## 🌐 Socials:
