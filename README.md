@@ -18,7 +18,7 @@ Crafting scalable apps, designing intuitive UIs, capturing moments, and building
 
 - 👑 **LeetCode**: 600+ Problems Solved | 535+ Profile Views | Knight Badge 🛡️  
   ↳ 🗨️ 1 Post on Discuss | 🧠 Reputation: 17  
-  🔗 [View Profile](https://leetcode.com/harshityadav-7/)
+  🔗 [View Profile](https://leetcode.com/u/harshityadav_7/)
 
 - ⭐ **GeeksforGeeks**: 4⭐ Coder  
   🔗 [View Profile](https://www.geeksforgeeks.org/user/harshityadav_7/?_gl=1*30arr7*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNMBVgG0iFd0E8X_sMigd7NdoAN6tQAXOeaBXqN-KXM4Tbp5vOSCReoaAsIPEALw_wcB&gbraid=0AAAAAC9yBkCBzs6tFdeMUcg422fuFCwNX)
